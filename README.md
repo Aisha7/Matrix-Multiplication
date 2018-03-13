@@ -2,9 +2,13 @@
 Matrix multiplication of NxN Matrices where n is power of 2 using Naive Algorithm, Recursive Divide and Conquer Algorithm and Strassen Divid and Conquer algorithm.
 ------------------------------------------------------------------------------------------------------------------------------------------
 Open Terminal
+
 Compilation:
+
 	gcc matmul.c –o matmul.exe
-Execution: 
+	
+Execution:
+
 	./matmul.exe –a 1/2/3 –i/f –s<size> 
 ------------------------------------------------------------------------------------------------------------------------------------------
 -a: represents the algorithm to be chosen the options are 1 2 3 where
